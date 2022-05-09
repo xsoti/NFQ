@@ -1,0 +1,6 @@
+module Pods_NFQ {
+  umbrella header "Pods-NFQ-umbrella.h"
+
+  export *
+  module * { export * }
+}

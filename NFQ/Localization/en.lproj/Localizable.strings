@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  NFQ
+
+  Created by Michal Gumny on 03/05/2022.
+  
+*/
+
+"username" = "Username";
+"password" = "Password";
+"submit" = "Submit";
+"logout" = "Logout";
+"errorTitle" = "Error";
+"errorMessage" = "Unknown error ocurred, try agin later";
+"buttonTitle" = "OK";
+"logout" = "Logout";

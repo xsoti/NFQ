@@ -1,0 +1,38 @@
+PODS:
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SnapKit (5.0.1)
+  - SwiftLint (0.47.0)
+  - Valet (4.1.1)
+
+DEPENDENCIES:
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+  - SwiftLint
+  - Valet
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftLint
+    - Valet
+
+SPEC CHECKSUMS:
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftLint: d41cc46a2ae58ac6d9f26954bc89f1d72e71fdef
+  Valet: 11ab0e318b7284888a81392e36136563b4af5deb
+
+PODFILE CHECKSUM: 9d5f8cf7ccc3a1fecc867f0964a7b3f24ab602c7
+
+COCOAPODS: 1.11.2
